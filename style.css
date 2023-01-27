@@ -1,0 +1,13 @@
+#Cow{
+    height: 120px;
+    position: absolute;
+}
+h1{
+    color: purple;
+    font-size: 45px;
+    text-align: center;
+    border: 7px solid purple;
+    background-color: plum;
+    width: max-content;
+    
+}
